@@ -6,7 +6,7 @@
   </a>
 </p>
 
-> Web scraper to index the images and locations for PrettyEarth
+> Web scraper to index the images and locations from Google EarthView for PrettyEarth
 
 ## Install
 
@@ -25,6 +25,10 @@ npm run build
 ```sh
 npm start
 ```
+
+## Usage
+
+The index generated on 30/07/2019 can be found in the output directory.
 
 ## Author
 
