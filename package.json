@@ -12,10 +12,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "@types/node": "^12.6.8",
-    "eslint": "^6.1.0"
+    "@types/node": "^12.12.27",
+    "eslint": "^6.8.0"
   },
   "dependencies": {
-    "@types/request": "^2.48.2"
+    "@types/request": "^2.48.4"
   }
 }
