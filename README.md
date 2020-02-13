@@ -28,7 +28,7 @@ npm start
 
 ## Usage
 
-The index generated on 30/07/2019 can be found in the output directory.
+The index generated on 13/02/2020 can be found in the output directory.
 
 ## Author
 
