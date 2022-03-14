@@ -1,11 +1,13 @@
 import request from 'request'
-const fs = require('fs')
+import fs from 'fs'
 
 const codeOfFirstObject = 0
 
 const outputFilePath = './output/prettyOutput.json'
 
 let dataObject: Array<Object> = []
+
+let nrOfConsecutiveFails = 0
 
 const startScraper = () => {
   const loop = (nr: number) => {
@@ -29,8 +31,9 @@ const startScraper = () => {
               map: dataObj.mapsLink,
               region: dataObj.region
             })
+            nrOfConsecutiveFails = 0
             console.log('image at ' + nr)
-            fs.writeFile(outputFilePath, JSON.stringify(dataObject, null, 2), function (err: NodeJS.ErrnoException) {
+            fs.writeFile(outputFilePath, JSON.stringify(dataObject, null, 2), function (err: NodeJS.ErrnoException | null) {
               if (err) {
                 return console.log(err)
               }
@@ -41,7 +44,13 @@ const startScraper = () => {
             loop(nr + 1)
           }
         } else {
-          loop(nr + 1)
+          nrOfConsecutiveFails++
+          if(nrOfConsecutiveFails <= 50) {
+            loop(nr + 1)
+          }
+          else {
+            console.log('End reached!')
+          }
         }
       })
     } else {
@@ -52,7 +61,7 @@ const startScraper = () => {
 }
 
 (() => {
-  fs.readFile(outputFilePath, function (err: NodeJS.ErrnoException, data: string) {
+  fs.readFile(outputFilePath, 'utf8', function (err: NodeJS.ErrnoException | null, data: string) {
     if (err) {
       if (err.code !== 'ENOENT') {
         throw err
