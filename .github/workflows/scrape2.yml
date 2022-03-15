@@ -1,0 +1,32 @@
+name: Scrape CI
+
+on:
+  schedule:
+    - cron: "0 0 15 * *" # Run every month
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    strategy:
+      matrix:
+        node-version: [16.x]
+
+    steps:
+    - uses: actions/checkout@v2
+    - name: Build the project, run and push to GH
+      uses: actions/setup-node@v2
+      with:
+        node-version: ${{ matrix.node-version }}
+        cache: 'npm'
+      run: npm ci
+      run: npm run build --if-present
+      name: Scrape
+      run: npm run start
+      run: |
+          git config --global user.name "evertdespiegeleer"
+          git config --global user.email "evert.de.spiegeleer@gmail.com"
+          git add ./output/prettyOutput.json
+          git commit -m "Automatic reindex `date +%d/%m/%Y`"
+          git push
