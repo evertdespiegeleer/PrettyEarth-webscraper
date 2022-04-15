@@ -26288,5 +26288,285 @@
     "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2448.jpg",
     "map": "https://www.google.com/maps/@29.175169,30.305446,15z/data=!3m1!1e3",
     "region": "Faiyum"
+  },
+  {
+    "id": "2421",
+    "primaryColor": [
+      174,
+      127,
+      82,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2421.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2421.jpg",
+    "map": "https://www.google.com/maps/@-29.660032,123.401393,12z/data=!3m1!1e3",
+    "region": "Plumridge Lakes"
+  },
+  {
+    "id": "2422",
+    "primaryColor": [
+      41,
+      188,
+      222,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2422.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2422.jpg",
+    "map": "https://www.google.com/maps/@-25.583034,120.054683,11z/data=!3m1!1e3",
+    "region": "Kumarina"
+  },
+  {
+    "id": "2423",
+    "primaryColor": [
+      180,
+      122,
+      71,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2423.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2423.jpg",
+    "map": "https://www.google.com/maps/@-25.56515,119.922504,14z/data=!3m1!1e3",
+    "region": "Kumarina"
+  },
+  {
+    "id": "2426",
+    "primaryColor": [
+      196,
+      141,
+      76,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2426.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2426.jpg",
+    "map": "https://www.google.com/maps/@-26.139933,113.248739,13z/data=!3m1!1e3",
+    "region": "Western Australia"
+  },
+  {
+    "id": "2430",
+    "primaryColor": [
+      208,
+      144,
+      5,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2430.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2430.jpg",
+    "map": "https://www.google.com/maps/@-22.658631,113.669481,14z/data=!3m1!1e3",
+    "region": "Ningaloo"
+  },
+  {
+    "id": "2431",
+    "primaryColor": [
+      165,
+      99,
+      77,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2431.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2431.jpg",
+    "map": "https://www.google.com/maps/@-21.714075,115.093755,13z/data=!3m1!1e3",
+    "region": "Onslow"
+  },
+  {
+    "id": "2432",
+    "primaryColor": [
+      194,
+      109,
+      87,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2432.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2432.jpg",
+    "map": "https://www.google.com/maps/@-21.586993,115.474414,14z/data=!3m1!1e3",
+    "region": "Peedamulla"
+  },
+  {
+    "id": "2433",
+    "primaryColor": [
+      51,
+      208,
+      217,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2433.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2433.jpg",
+    "map": "https://www.google.com/maps/@-21.43803,115.58329,14z/data=!3m1!1e3",
+    "region": "Peedamulla"
+  },
+  {
+    "id": "2434",
+    "primaryColor": [
+      56,
+      200,
+      180,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2434.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2434.jpg",
+    "map": "https://www.google.com/maps/@-20.865008,115.339703,15z/data=!3m1!1e3",
+    "region": "Western Australia"
+  },
+  {
+    "id": "2435",
+    "primaryColor": [
+      227,
+      100,
+      65,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2435.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2435.jpg",
+    "map": "https://www.google.com/maps/@-20.357885,118.619701,16z/data=!3m1!1e3",
+    "region": "Port Hedland"
+  },
+  {
+    "id": "2436",
+    "primaryColor": [
+      140,
+      65,
+      92,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2436.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2436.jpg",
+    "map": "https://www.google.com/maps/@-20.344184,118.734027,15z/data=!3m1!1e3",
+    "region": "Pippingarra"
+  },
+  {
+    "id": "2437",
+    "primaryColor": [
+      58,
+      180,
+      157,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2437.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2437.jpg",
+    "map": "https://www.google.com/maps/@-20.286673,118.948732,13z/data=!3m1!1e3",
+    "region": "Strelley"
+  },
+  {
+    "id": "2438",
+    "primaryColor": [
+      164,
+      116,
+      60,
+      255
+    ],
+    "country": "Australia",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2438.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2438.jpg",
+    "map": "https://www.google.com/maps/@-17.139027,122.273212,14z/data=!3m1!1e3",
+    "region": "Dampier Peninsula"
+  },
+  {
+    "id": "2439",
+    "primaryColor": [
+      33,
+      110,
+      221,
+      255
+    ],
+    "country": "Antarctica",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2439.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2439.jpg",
+    "map": "https://www.google.com/maps/@-69.746959,10.463253,9z/data=!3m1!1e3",
+    "region": ""
+  },
+  {
+    "id": "2442",
+    "primaryColor": [
+      151,
+      141,
+      103,
+      255
+    ],
+    "country": "Azerbaijan",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2442.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2442.jpg",
+    "map": "https://www.google.com/maps/@40.165334,49.291894,15z/data=!3m1!1e3",
+    "region": "Baku"
+  },
+  {
+    "id": "2443",
+    "primaryColor": [
+      181,
+      142,
+      69,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2443.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2443.jpg",
+    "map": "https://www.google.com/maps/@43.390624,4.727092,15z/data=!3m1!1e3",
+    "region": "Arles"
+  },
+  {
+    "id": "2444",
+    "primaryColor": [
+      31,
+      223,
+      223,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2444.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2444.jpg",
+    "map": "https://www.google.com/maps/@43.51482,4.131888,17z/data=!3m1!1e3",
+    "region": "Le Grau-du-Roi"
+  },
+  {
+    "id": "2446",
+    "primaryColor": [
+      233,
+      112,
+      129,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2446.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2446.jpg",
+    "map": "https://www.google.com/maps/@43.534657,4.157954,16z/data=!3m1!1e3",
+    "region": "Le Grau-du-Roi"
+  },
+  {
+    "id": "2447",
+    "primaryColor": [
+      207,
+      114,
+      110,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2447.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2447.jpg",
+    "map": "https://www.google.com/maps/@43.525883,4.208058,15z/data=!3m1!1e3",
+    "region": "Aigues-Mortes"
+  },
+  {
+    "id": "2448",
+    "primaryColor": [
+      67,
+      150,
+      187,
+      255
+    ],
+    "country": "Egypt",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2448.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2448.jpg",
+    "map": "https://www.google.com/maps/@29.175169,30.305446,15z/data=!3m1!1e3",
+    "region": "Faiyum"
   }
 ]
