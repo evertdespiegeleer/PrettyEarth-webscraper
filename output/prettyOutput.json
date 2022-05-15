@@ -26568,5 +26568,89 @@
     "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2448.jpg",
     "map": "https://www.google.com/maps/@29.175169,30.305446,15z/data=!3m1!1e3",
     "region": "Faiyum"
+  },
+  {
+    "id": "2442",
+    "primaryColor": [
+      151,
+      141,
+      103,
+      255
+    ],
+    "country": "Azerbaijan",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2442.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2442.jpg",
+    "map": "https://www.google.com/maps/@40.165334,49.291894,15z/data=!3m1!1e3",
+    "region": "Baku"
+  },
+  {
+    "id": "2443",
+    "primaryColor": [
+      181,
+      142,
+      69,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2443.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2443.jpg",
+    "map": "https://www.google.com/maps/@43.390624,4.727092,15z/data=!3m1!1e3",
+    "region": "Arles"
+  },
+  {
+    "id": "2444",
+    "primaryColor": [
+      31,
+      223,
+      223,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2444.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2444.jpg",
+    "map": "https://www.google.com/maps/@43.51482,4.131888,17z/data=!3m1!1e3",
+    "region": "Le Grau-du-Roi"
+  },
+  {
+    "id": "2446",
+    "primaryColor": [
+      233,
+      112,
+      129,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2446.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2446.jpg",
+    "map": "https://www.google.com/maps/@43.534657,4.157954,16z/data=!3m1!1e3",
+    "region": "Le Grau-du-Roi"
+  },
+  {
+    "id": "2447",
+    "primaryColor": [
+      207,
+      114,
+      110,
+      255
+    ],
+    "country": "France",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2447.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2447.jpg",
+    "map": "https://www.google.com/maps/@43.525883,4.208058,15z/data=!3m1!1e3",
+    "region": "Aigues-Mortes"
+  },
+  {
+    "id": "2448",
+    "primaryColor": [
+      67,
+      150,
+      187,
+      255
+    ],
+    "country": "Egypt",
+    "image": "https://www.gstatic.com/prettyearth/assets/full/2448.jpg",
+    "thumb": "https://www.gstatic.com/prettyearth/assets/preview/2448.jpg",
+    "map": "https://www.google.com/maps/@29.175169,30.305446,15z/data=!3m1!1e3",
+    "region": "Faiyum"
   }
 ]
